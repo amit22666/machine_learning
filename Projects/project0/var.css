@@ -1,0 +1,39 @@
+@media only screen and (max-width: 600px) {
+  body {
+    background-color: lightblue; } }
+.countries {
+  padding-top: 30px;
+  background-color: dark; }
+
+nav ul.india_list {
+  padding-top: 50px;
+  list-style-type: circle; }
+nav ul.usa_list {
+  padding-top: 50px;
+  list-style-type: square; }
+nav ul.comparison_list {
+  padding-top: 50px;
+  list-style-type: circle; }
+
+.hdfc, .ril, .tcs {
+  padding: 50px; }
+
+.apple, .microsoft, .berkshire {
+  padding: 50px; }
+
+#india_table {
+  margin-top: 75px; }
+
+#usa_table {
+  margin-top: 50px; }
+
+#india {
+  color: green; }
+
+#usa {
+  color: red; }
+
+#comparison {
+  color: orange; }
+
+/*# sourceMappingURL=var.css.map */
